@@ -10,6 +10,7 @@ This demo shows how to do Huffman encoding/decoding of 2D single-channel images 
 </p>
 
 **Result:** <br/>
+'''
 ----------Huffman table----------
 Symbol Probability Codeword
 163        0.0365     '10111'   
@@ -246,3 +247,4 @@ Size of the encoded file: 56669 [bytes]
 Compression ratio:  1.15647
 
 SUCCESS. The original and decoded versions are identical!
+'''
