@@ -6,7 +6,7 @@ This demo shows how to do Huffman encoding/decoding of 2D single-channel images 
 256 x 256 8-bit image <br/>
 (left) Original image, (right) decoded image <br/>
 <p align="center">
-  <img src="images_original_and_decoded.png" width="420" height="320"/>
+  <img src="image/images_original_and_decoded.png" width="420" height="320"/>
 </p>
 
 **Result:** <br/>
