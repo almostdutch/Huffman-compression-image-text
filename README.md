@@ -10,8 +10,8 @@ This demo shows how to do Huffman encoding/decoding of 2D single-channel images 
 </p>
 
 **Result:** <br/>
-----------Huffman table----------
-Symbol Probability Codeword
+----------Huffman table----------<br/>
+Symbol Probability Codeword<br/>
 163        0.0365     '10111'   
 7          0.0257     '01010'   
 6          0.0233     '00100'   
