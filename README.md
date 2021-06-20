@@ -1,6 +1,6 @@
 demo_huffman_compression.py <br/>
 
-This demo shows how to do Huffman encoding/decoding of 2D single-channel images and text <br/>
+This demo shows how to do Huffman encoding/decoding of 2D single-channel images (image/demo_huffman_compression.py) and text (text/demo_huffman_compression.py) <br/>
 
 **Dummy dataset (image):**<br/>
 256 x 256 8-bit image <br/>
